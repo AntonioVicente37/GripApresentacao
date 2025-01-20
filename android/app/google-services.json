@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031872468725",
+    "project_id": "notifydocb1",
+    "storage_bucket": "notifydocb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031872468725:android:d249c396b220932ffe57bc",
+        "android_client_info": {
+          "package_name": "com.example.notifydoc_b1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIn3ruJftw2G34y14Kl3Olx21V7yClu64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
